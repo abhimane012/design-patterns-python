@@ -1,0 +1,8 @@
+[2025-12-08 19:36:50.184956] - [INFO] - This is info log
+[2025-12-08 19:36:50.186073] - [ERROR] - This is info log
+[2025-12-08 19:36:50.186793] - [CRITICAL] - This is info log
+[2025-12-08 19:36:50.187335] - [EXCEPTION] - This is info log
+[2025-12-08 19:36:50.187710] - [INFO] - This is info log2
+[2025-12-08 19:36:50.188412] - [ERROR] - This is info log2
+[2025-12-08 19:36:50.188973] - [CRITICAL] - This is info log2
+[2025-12-08 19:36:50.189349] - [EXCEPTION] - This is info log2
